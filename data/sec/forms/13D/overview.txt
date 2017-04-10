@@ -1,0 +1,16 @@
+https://www.sec.gov/fast-answers/answerssched13htm.html
+
+https://www.sec.gov/cgi-bin/browse-edgar?company=&CIK=&type=SC+13D&owner=include&count=40&action=getcurrent
+
+
+--------------
+
+Case Study
+
+Valeritas Holdings Inc.
+
+https://www.sec.gov/cgi-bin/browse-edgar?CIK=0001619250&action=getcompany
+
+https://www.sec.gov/Archives/edgar/data/1702352/000119312517116485/0001193125-17-116485-index.htm
+
+https://www.sec.gov/Archives/edgar/data/1619250/000119312517116485/d372092dsc13d.htm
