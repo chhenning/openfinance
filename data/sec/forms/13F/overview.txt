@@ -7,6 +7,29 @@ https://www.sec.gov/fast-answers/answers-form13fhtm.html
 
 https://www.sec.gov/cgi-bin/browse-edgar?company=&CIK=&type=13F&owner=include&count=40&action=getcurrent
 
+-----------------
+http://www.investopedia.com/terms/f/form-13f.asp
+
+
+BREAKING DOWN 'SEC Form 13F'
+SEC Form 13F, which must be filed within 45 days of the end of each quarter, contains information about the investment manager and potentially a list of their recent investment holdings. The form was made famous by investment con artist Bernie Madoff. It provides investors with an inside look at the holdings of Wall Street's largest investment managers. While this form can provide valuable insight into the management style of some of Wall Street's best portfolio chiefs , history has proven that these forms are only truly useful to investors when the investment manager reports accurately and honestly.
+
+Hedge Funds and 13F Forms
+Institutional investors have become more prolific in the past six decades. In 1950, equity ownership among institutions represented about 8% of the total U.S. market capitalization. That percentage increased dramatically in the following 60 years. By 2010 it was estimated that 67% of all domestic stocks were controlled by institutions.
+
+Hedge funds rose to prominence with index-busting returns that tapered off beginning with the bull run starting in 2009 after the financial meltdown. Many individual investors, attempting to replicate the strategies of iconic money managers such as Paul Tudor Jones and George Soros, peer inside 13F filings for insight into the purchase and sales of securities transacted by the pros. The Tudor Investment Corporation is captained by Jones and its portfolio holds about 1,300 stocks. In its May 16, 2016, 13F filing, Tudor’s holdings included Allergan and Starwood Hotels and Resorts Worldwide Inc. among its top-10 positions.
+
+13F Reliability
+Some investors, and even the Securities and Exchange Commission (SEC) itself, question the quality and integrity of 13F filings. In a 2010 investigation, the SEC’S findings regarding 13F reporting requirements revealed concerns around three major issues. The first finding offered that no SEC division assumed any authority to scrutinize 13F’s in general. The second conclusion stated that no SEC office analyzes 13F’s content for “accuracy and completeness. Lastly, the SEC found that the Electronic Data Gathering, Analysis and Retrieval (EDGAR) system possessed no internal checks used to monitor the filings of 13Fs.
+
+
+Google: site:nytimes.com dealbook 13F
+
+(One Secret Buffett Gets to Keep)[https://dealbook.nytimes.com/2011/11/14/one-secret-buffett-gets-to-keep/]
+
+
+
+--------------
 --------
 Schema
 --------
@@ -14,8 +37,6 @@ Schema
 
 EDGAR Form 13F XML Technical Specification (Version 1.3)
 https://www.sec.gov/info/edgar/specifications/form13fxmltechspec.htm
-
-
 
 -----------------------------
 

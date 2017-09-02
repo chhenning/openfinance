@@ -3,6 +3,13 @@ https://www.sec.gov/fast-answers/answerssched13htm.html
 https://www.sec.gov/cgi-bin/browse-edgar?company=&CIK=&type=SC+13D&owner=include&count=40&action=getcurrent
 
 
+# NY Times articles mentioning 13D
+
+(One Secret Buffett Gets to Keep)[https://dealbook.nytimes.com/2011/11/14/one-secret-buffett-gets-to-keep/]
+
+Google: site:nytimes.com dealbook 13D
+
+
 --------------
 
 Case Study
