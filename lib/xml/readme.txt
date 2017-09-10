@@ -10,6 +10,7 @@ https://github.com/zeux/pugixml
 + still under development (as of 04/09/2017)
 + XPath 1.0
 + Unicode
++ supported by vcpkg
 MIT License
 
 ---------------------
