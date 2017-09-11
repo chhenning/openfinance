@@ -1,0 +1,13 @@
+doctype:auto
+output-xhtml:yes
+drop-empty-paras:yes
+fix-backslash:yes
+fix-bad-comments:yes
+fix-uri:yes
+join-styles:yes
+lower-literals:yes
+ncr:yes
+output-xhtml:yes
+quote-ampersand:yes
+quote-nbsp:yes
+char-encoding:utf8

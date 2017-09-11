@@ -103,7 +103,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_DEBUG;_WINDOWS;CURL_STATICLIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>D:\vcpkg\installed\x64-windows-static\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\vcpkg\installed\x64-windows-static\include;D:\tidy\tidy-html5\include</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
@@ -150,7 +150,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\src\OpenFinance_Test\main.cpp" />
+    <ClCompile Include="..\..\..\..\src\OpenFinance_Test\http.cpp" />
+    <ClCompile Include="..\..\..\..\src\OpenFinance_Test\xml.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\src\OpenFinance_Test\Readme.txt" />

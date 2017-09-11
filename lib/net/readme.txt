@@ -8,3 +8,4 @@ https://curl.haxx.se/libcurl/c/example.html
 
 cpr as a wrapper for curl
 https://whoshuu.github.io/cpr/introduction.html
+!!! not good, it doesn't support https

@@ -15,11 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\src\OpenFinance_Test\main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <Text Include="..\..\..\..\src\OpenFinance_Test\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\src\OpenFinance_Test\Readme.txt" />
+    <ClCompile Include="..\..\..\..\src\OpenFinance_Test\http.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\OpenFinance_Test\xml.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
